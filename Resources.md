@@ -2,7 +2,7 @@
 
 ## Model Context Protocol
 
-[Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic, youtube presentation](https://youtu.be/kQmXtrmQ5Zg?si=TYAn4vJMX8_mwQ5H)
+[Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic, youtube presentation at AI Engineer Summit February 2025](https://youtu.be/kQmXtrmQ5Zg?si=TYAn4vJMX8_mwQ5H)
 
 https://huggingface.co/blog/tsadoq/agent2agent-and-mcp-tutorial
 
