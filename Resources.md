@@ -12,6 +12,8 @@ main github repo: https://github.com/modelcontextprotocol
 
 [MCP vs ACP vs A2A: Comparing Agent Protocols with Laurie Voss from LlamaIndex, MCP Developers Summit, June 2025](https://www.youtube.com/watch?v=kqB_xML1SfA)
 
+[MCP vs A2A vs RAG Explained Simply! Cloud with Raj, May, 2025](https://youtu.be/u546On9iEBk?si=11bpXOnXXgFb9OLi)
+
 Streamable MCP implementation by InvariantLabs AI: https://github.com/invariantlabs-ai/mcp-streamable-http
 
 
