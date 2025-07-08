@@ -20,6 +20,8 @@ Streamable MCP implementation by InvariantLabs AI: https://github.com/invariantl
 
 [MCP vs A2A vs RAG Explained Simply! Cloud with Raj, May, 2025](https://youtu.be/u546On9iEBk?si=11bpXOnXXgFb9OLi)
 
+[Why MCP really is a big deal | Model Context Protocol with Tim Berglund, Confluent Developer, June 2025](https://youtu.be/FLpS7OfD5-s?si=0QypUC5Rx-OLJ1Ok)
+
 
 #### HuggingFace
 
