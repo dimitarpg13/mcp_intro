@@ -14,6 +14,8 @@ Streamable MCP implementation by InvariantLabs AI: https://github.com/invariantl
 
 ### Online articles, videos, and blogs
 
+[MCP vs API: Simplifying AI Agent Integration with External Data, IBM Technology, May, 2025](https://www.youtube.com/watch?v=7j1t3UZA1TY)
+
 [MCP vs ACP vs A2A: Comparing Agent Protocols with Laurie Voss from LlamaIndex, MCP Developers Summit, June 2025](https://www.youtube.com/watch?v=kqB_xML1SfA)
 
 [MCP vs A2A vs RAG Explained Simply! Cloud with Raj, May, 2025](https://youtu.be/u546On9iEBk?si=11bpXOnXXgFb9OLi)
