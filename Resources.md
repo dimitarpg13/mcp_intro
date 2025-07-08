@@ -22,6 +22,8 @@ Streamable MCP implementation by InvariantLabs AI: https://github.com/invariantl
 
 [Why MCP really is a big deal | Model Context Protocol with Tim Berglund, Confluent Developer, June 2025](https://youtu.be/FLpS7OfD5-s?si=0QypUC5Rx-OLJ1Ok)
 
+[MCP Authentication: The Confusing parts Explained, Arcade, July 7, 2025](https://youtu.be/oVHuxXSxr8U?si=OVvg5mxmrmqRtibv)
+
 
 #### HuggingFace
 
