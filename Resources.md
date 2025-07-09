@@ -8,11 +8,17 @@ anthropic MCP architecture page: https://modelcontextprotocol.io/specification/2
 
 main github repo: https://github.com/modelcontextprotocol
 
-[Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic, youtube presentation at AI Engineer Summit February 2025](https://youtu.be/kQmXtrmQ5Zg?si=TYAn4vJMX8_mwQ5H)
+[MCP Toolbox for Databases: Simplify AI Agent Access to Enterprise Data, Hamsa Buvaraghan, Derek Egan, April 2025](https://cloud.google.com/blog/products/ai-machine-learning/mcp-toolbox-for-databases-now-supports-model-context-protocol)
+
+[An introduction to MCP Toolbox for Databases on googleapis.github.io](https://googleapis.github.io/genai-toolbox/getting-started/introduction/)
+
+github repo for MCP Toolbox for Databases: https://github.com/googleapis/genai-toolbox
 
 Streamable MCP implementation by InvariantLabs AI: https://github.com/invariantlabs-ai/mcp-streamable-http
 
 ### Online articles, videos, and blogs
+
+[Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic, youtube presentation at AI Engineer Summit February 2025](https://youtu.be/kQmXtrmQ5Zg?si=TYAn4vJMX8_mwQ5H)
 
 [MCP vs API: Simplifying AI Agent Integration with External Data, IBM Technology, May, 2025](https://www.youtube.com/watch?v=7j1t3UZA1TY)
 
