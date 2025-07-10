@@ -20,15 +20,15 @@ Streamable MCP implementation by InvariantLabs AI: https://github.com/invariantl
 
 [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic, youtube presentation at AI Engineer Summit February 2025](https://youtu.be/kQmXtrmQ5Zg?si=TYAn4vJMX8_mwQ5H)
 
-[MCP vs API: Simplifying AI Agent Integration with External Data, IBM Technology, May, 2025](https://www.youtube.com/watch?v=7j1t3UZA1TY)
+[MCP vs API: Simplifying AI Agent Integration with External Data, IBM Technology, May, 2025 (youtube video)](https://www.youtube.com/watch?v=7j1t3UZA1TY)
 
-[MCP vs ACP vs A2A: Comparing Agent Protocols with Laurie Voss from LlamaIndex, MCP Developers Summit, June 2025](https://www.youtube.com/watch?v=kqB_xML1SfA)
+[MCP vs ACP vs A2A: Comparing Agent Protocols with Laurie Voss from LlamaIndex, MCP Developers Summit, June 2025 (youtube video)](https://www.youtube.com/watch?v=kqB_xML1SfA)
 
-[MCP vs A2A vs RAG Explained Simply! Cloud with Raj, May, 2025](https://youtu.be/u546On9iEBk?si=11bpXOnXXgFb9OLi)
+[MCP vs A2A vs RAG Explained Simply! Cloud with Raj, May, 2025 (youtube video)](https://youtu.be/u546On9iEBk?si=11bpXOnXXgFb9OLi)
 
-[Why MCP really is a big deal | Model Context Protocol with Tim Berglund, Confluent Developer, June 2025](https://youtu.be/FLpS7OfD5-s?si=0QypUC5Rx-OLJ1Ok)
+[Why MCP really is a big deal | Model Context Protocol with Tim Berglund, Confluent Developer, June 2025 (youtube video)](https://youtu.be/FLpS7OfD5-s?si=0QypUC5Rx-OLJ1Ok)
 
-[MCP Authentication: The Confusing parts Explained, Arcade, July 7, 2025](https://youtu.be/oVHuxXSxr8U?si=OVvg5mxmrmqRtibv)
+[MCP Authentication: The Confusing parts Explained, Arcade, July 7, 2025 (youtube video)](https://youtu.be/oVHuxXSxr8U?si=OVvg5mxmrmqRtibv)
 
 
 #### HuggingFace
