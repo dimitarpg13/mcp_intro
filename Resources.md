@@ -18,7 +18,7 @@ Streamable MCP implementation by InvariantLabs AI: https://github.com/invariantl
 
 ### Online articles, videos, and blogs
 
-[Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic, youtube presentation at AI Engineer Summit February 2025](https://youtu.be/kQmXtrmQ5Zg?si=TYAn4vJMX8_mwQ5H)
+[Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic, AI Engineer Summit February 2025 (youtube video)](https://youtu.be/kQmXtrmQ5Zg?si=TYAn4vJMX8_mwQ5H)
 
 [MCP vs API: Simplifying AI Agent Integration with External Data, IBM Technology, May, 2025 (youtube video)](https://www.youtube.com/watch?v=7j1t3UZA1TY)
 
