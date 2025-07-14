@@ -14,7 +14,11 @@ main github repo: https://github.com/modelcontextprotocol
 
 github repo for MCP Toolbox for Databases: https://github.com/googleapis/genai-toolbox
 
+### Examples implementing MCP
+
 Streamable MCP implementation by InvariantLabs AI: https://github.com/invariantlabs-ai/mcp-streamable-http
+
+Claude-Deep-Research: MCP server:  https://github.com/dimitarpg13/Claude-Deep-Research
 
 ### Online articles, videos, and blogs
 
