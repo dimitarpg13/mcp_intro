@@ -16,9 +16,8 @@ github repo for MCP Toolbox for Databases: https://github.com/googleapis/genai-t
 
 ### Examples implementing MCP
 
-Streamable MCP implementation by InvariantLabs AI: https://github.com/invariantlabs-ai/mcp-streamable-http
-
-Claude-Deep-Research: MCP server:  https://github.com/dimitarpg13/Claude-Deep-Research
+Streamable MCP implementation by InvariantLabs AI: https://github.com/dimitarpg13/mcp-streamable-http
+Claude-Deep-Research: MCP server by Mathew Cherukara:  https://github.com/dimitarpg13/Claude-Deep-Research
 
 ### Online articles, videos, and blogs
 
