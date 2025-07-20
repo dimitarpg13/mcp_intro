@@ -55,6 +55,8 @@ Alexander Komyagin, Jan 2025](https://medium.com/@adkomyagin/true-agentic-rag-ho
 
 [Creating AI Agents with MCP and Ollama local: A Hands-On Tutorial, Usamah Jassat, May 2025](https://medium.com/@UsamahJ/creating-ai-agents-with-mcp-and-ollama-local-a-hands-on-tutorial-8a8d8f698315)
 
+[The Future of AI Agent Communication with ACP: A practical guide to connecting and coordinating multiple AI agents, Mariya Mansurova, 2025](https://towardsdatascience.com/the-future-of-ai-agent-communication-with-acp/?fbclid=IwY2xjawLpkXlleHRuA2FlbQIxMQABHoCnI9gisZXNm4FPteE0ZpHNKnIxwmAKF6pVFjB4YckLAocwssgXWSj6GiDr_aem_atj4xC3L0uOndgWS763SFg)
+
 #### Other Media Outlets
 
 ##### FrameLink Figma Server
