@@ -20,6 +20,35 @@ Streamable MCP implementation by InvariantLabs AI: https://github.com/dimitarpg1
 
 Claude-Deep-Research: MCP server by Mathew Cherukara:  https://github.com/dimitarpg13/Claude-Deep-Research
 
+### Demo and Tutorial Code
+
+**Tutorial**: https://modelcontextprotocol.io/tutorials/building-mcp-with-llms
+
+**Examples**: https://modelcontextprotocol.io/examples
+
+   **[Servers](https://modelcontextprotocol.io/examples)**:
+   
+   Filesystem MCP Server: https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem
+
+   Fetch MCP Server: https://github.com/modelcontextprotocol/servers/tree/main/src/fetch
+
+   Knowledge Graph Memory Server: https://github.com/modelcontextprotocol/servers/tree/main/src/memory
+
+   Sequential Thinking MCP Server: https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking
+
+   **Clients**:
+
+   Notes on building clients: https://github.com/modelcontextprotocol/docs/blob/main/tutorials/building-a-client-node.mdx
+
+   Full list of supported clients here: https://modelcontextprotocol.io/clients
+
+   **Client list for supperted frameworks**: https://modelcontextprotocol.io/llms-full.txt
+
+
+   
+
+
+
 ### Online articles, videos, and blogs
 
 [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic, AI Engineer Summit February 2025 (youtube video)](https://youtu.be/kQmXtrmQ5Zg?si=TYAn4vJMX8_mwQ5H)
