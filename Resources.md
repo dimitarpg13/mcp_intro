@@ -113,3 +113,7 @@ https://github.com/i-am-bee/acp
 ## Language Server Protocol
 
 https://en.wikipedia.org/wiki/Language_Server_Protocol
+
+## RAG Systems and Context Engineering
+
+[A Survey of Context Engineering for Large Language Models, L. Mei et al, 2025](https://github.com/dimitarpg13/mcp_intro/blob/main/articles/A_Survey_of_Context_Engineering_for_Large_Language_Models_Mei_2025.pdf)
