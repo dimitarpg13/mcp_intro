@@ -8,12 +8,61 @@ anthropic MCP architecture page: https://modelcontextprotocol.io/specification/2
 
 main github repo: https://github.com/modelcontextprotocol
 
-[Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic, youtube presentation at AI Engineer Summit February 2025](https://youtu.be/kQmXtrmQ5Zg?si=TYAn4vJMX8_mwQ5H)
+[MCP Toolbox for Databases: Simplify AI Agent Access to Enterprise Data, Hamsa Buvaraghan, Derek Egan, April 2025](https://cloud.google.com/blog/products/ai-machine-learning/mcp-toolbox-for-databases-now-supports-model-context-protocol)
 
-Streamable MCP implementation by InvariantLabs AI: https://github.com/invariantlabs-ai/mcp-streamable-http
+[An introduction to MCP Toolbox for Databases on googleapis.github.io](https://googleapis.github.io/genai-toolbox/getting-started/introduction/)
+
+github repo for MCP Toolbox for Databases: https://github.com/googleapis/genai-toolbox
+
+### Examples implementing MCP
+
+Streamable MCP implementation by InvariantLabs AI: https://github.com/dimitarpg13/mcp-streamable-http
+
+Claude-Deep-Research: MCP server by Mathew Cherukara:  https://github.com/dimitarpg13/Claude-Deep-Research
+
+### Demo and Tutorial Code
+
+**Tutorial**: https://modelcontextprotocol.io/tutorials/building-mcp-with-llms
+
+**Examples**: https://modelcontextprotocol.io/examples
+
+   **[Servers](https://modelcontextprotocol.io/examples)**:
+   
+   Filesystem MCP Server: https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem
+
+   Fetch MCP Server: https://github.com/modelcontextprotocol/servers/tree/main/src/fetch
+
+   Knowledge Graph Memory Server: https://github.com/modelcontextprotocol/servers/tree/main/src/memory
+
+   Sequential Thinking MCP Server: https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking
+
+   **Clients**:
+
+   Notes on building clients: https://github.com/modelcontextprotocol/docs/blob/main/tutorials/building-a-client-node.mdx
+
+   Full list of supported clients here: https://modelcontextprotocol.io/clients
+
+   **Client list for supperted frameworks**: https://modelcontextprotocol.io/llms-full.txt
 
 
-### Online articles and blogs
+   
+
+
+
+### Online articles, videos, and blogs
+
+[Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic, AI Engineer Summit February 2025 (youtube video)](https://youtu.be/kQmXtrmQ5Zg?si=TYAn4vJMX8_mwQ5H)
+
+[MCP vs API: Simplifying AI Agent Integration with External Data, IBM Technology, May, 2025 (youtube video)](https://www.youtube.com/watch?v=7j1t3UZA1TY)
+
+[MCP vs ACP vs A2A: Comparing Agent Protocols with Laurie Voss from LlamaIndex, MCP Developers Summit, June 2025 (youtube video)](https://www.youtube.com/watch?v=kqB_xML1SfA)
+
+[MCP vs A2A vs RAG Explained Simply! Cloud with Raj, May, 2025 (youtube video)](https://youtu.be/u546On9iEBk?si=11bpXOnXXgFb9OLi)
+
+[Why MCP really is a big deal | Model Context Protocol with Tim Berglund, Confluent Developer, June 2025 (youtube video)](https://youtu.be/FLpS7OfD5-s?si=0QypUC5Rx-OLJ1Ok)
+
+[MCP Authentication: The Confusing parts Explained, Arcade, July 7, 2025 (youtube video)](https://youtu.be/oVHuxXSxr8U?si=OVvg5mxmrmqRtibv)
+
 
 #### HuggingFace
 
@@ -35,6 +84,8 @@ Alexander Komyagin, Jan 2025](https://medium.com/@adkomyagin/true-agentic-rag-ho
 
 [Creating AI Agents with MCP and Ollama local: A Hands-On Tutorial, Usamah Jassat, May 2025](https://medium.com/@UsamahJ/creating-ai-agents-with-mcp-and-ollama-local-a-hands-on-tutorial-8a8d8f698315)
 
+[The Future of AI Agent Communication with ACP: A practical guide to connecting and coordinating multiple AI agents, Mariya Mansurova, 2025](https://towardsdatascience.com/the-future-of-ai-agent-communication-with-acp/?fbclid=IwY2xjawLpkXlleHRuA2FlbQIxMQABHoCnI9gisZXNm4FPteE0ZpHNKnIxwmAKF6pVFjB4YckLAocwssgXWSj6GiDr_aem_atj4xC3L0uOndgWS763SFg)
+
 #### Other Media Outlets
 
 ##### FrameLink Figma Server
@@ -54,6 +105,10 @@ FrameLink Figma Server github repo: https://github.com/GLips/Figma-Context-MCP
 ## Agent2Agent
 
 https://github.com/a2aproject/A2A
+
+## ACP
+
+https://github.com/i-am-bee/acp
 
 ## Language Server Protocol
 
