@@ -53,6 +53,10 @@ Claude-Deep-Research: MCP server by Mathew Cherukara:  https://github.com/dimita
 
 [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic, AI Engineer Summit February 2025 (youtube video)](https://youtu.be/kQmXtrmQ5Zg?si=TYAn4vJMX8_mwQ5H)
 
+[FastMCP — the best way to build an MCP server with Python, June 11, 2025, ZazenCodes (youtube video)](https://www.youtube.com/watch?v=rnljvmHorQw)
+
+github repo: https://github.com/zazencodes/zazencodes-season-2/tree/main/src/fastmcp-tutorial
+
 [MCP vs API: Simplifying AI Agent Integration with External Data, IBM Technology, May, 2025 (youtube video)](https://www.youtube.com/watch?v=7j1t3UZA1TY)
 
 [MCP vs ACP vs A2A: Comparing Agent Protocols with Laurie Voss from LlamaIndex, MCP Developers Summit, June 2025 (youtube video)](https://www.youtube.com/watch?v=kqB_xML1SfA)
