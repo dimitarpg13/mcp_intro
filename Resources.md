@@ -44,7 +44,7 @@ Claude-Deep-Research: MCP server by Mathew Cherukara:  https://github.com/dimita
 
    **Client list for supperted frameworks**: https://modelcontextprotocol.io/llms-full.txt
 
-
+**FastMCP Examples**: https://github.com/jlowin/fastmcp/tree/main/examples
    
 
 
