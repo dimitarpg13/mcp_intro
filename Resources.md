@@ -26,23 +26,23 @@ Claude-Deep-Research: MCP server by Mathew Cherukara:  https://github.com/dimita
 
 **Examples**: https://modelcontextprotocol.io/examples
 
-    **[Servers](https://modelcontextprotocol.io/examples)**:
+  **[Servers](https://modelcontextprotocol.io/examples)**:
    
-    Filesystem MCP Server: https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem
+  Filesystem MCP Server: https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem
 
-    Fetch MCP Server: https://github.com/modelcontextprotocol/servers/tree/main/src/fetch
+  Fetch MCP Server: https://github.com/modelcontextprotocol/servers/tree/main/src/fetch
 
-    Knowledge Graph Memory Server: https://github.com/modelcontextprotocol/servers/tree/main/src/memory
+  Knowledge Graph Memory Server: https://github.com/modelcontextprotocol/servers/tree/main/src/memory
 
-    Sequential Thinking MCP Server: https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking
+  Sequential Thinking MCP Server: https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking
 
-    **Clients**:
+  **Clients**:
 
-    Notes on building clients: https://github.com/modelcontextprotocol/docs/blob/main/tutorials/building-a-client-node.mdx
+  Notes on building clients: https://github.com/modelcontextprotocol/docs/blob/main/tutorials/building-a-client-node.mdx
 
-    Full list of supported clients here: https://modelcontextprotocol.io/clients
+  Full list of supported clients here: https://modelcontextprotocol.io/clients
 
-    **Client list for supperted frameworks**: https://modelcontextprotocol.io/llms-full.txt
+  **Client list for supperted frameworks**: https://modelcontextprotocol.io/llms-full.txt
 
 **FastMCP Examples**: https://github.com/jlowin/fastmcp/tree/main/examples
    
