@@ -39,9 +39,6 @@ For development or customization:
    - More options: [uv installation guide](https://docs.astral.sh/uv/getting-started/installation/)
    - Verify installation: `uv --version`
 
-3. **Git** (for cloning)
-   - Download from [git-scm.com](https://git-scm.com/downloads)
-   - Or download ZIP directly from GitHub (no Git required)
 
 ### Setup
 
