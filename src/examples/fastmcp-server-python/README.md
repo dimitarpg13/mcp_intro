@@ -23,49 +23,10 @@ A tutorial MCP (Model Context Protocol) server built with FastMCP 2.0, providing
 
 ## Installation
 
-### Option 1: Install from PyPI (Recommended)
-
-> #### THIS WILL NOT WORK.
->
-> Use option 2 instead.
->
-> This section is for demonstration purposes only. i.e. It's how you would want
-> to write your README if you actually published the server to PyPI.
-
-The easiest way to install and use this MCP server:
-
-#### Prerequisites
-- **Python 3.12 or higher** - Download from [python.org](https://www.python.org/downloads/)
-- **Claude Desktop** - Download from [claude.ai/download](https://claude.ai/download)
-
-#### Install the Package
-
-> The code below will not work. I have not actually deployed this to PyPi.
-> You can clone the repo and run it with uv to test it out!
-
-```bash
-# Install with pip
-pip install fastmcp-tutorial
-
-# Or with pipx (recommended for CLI tools)
-pipx install fastmcp-tutorial
-```
-
-#### Test the Installation
-
-```bash
-# Test the server
-fastmcp-tutorial-test
-
-# Start the server
-fastmcp-tutorial
-```
-
-### Option 2: Install from Source
 
 For development or customization:
 
-#### Prerequisites
+### Prerequisites
 
 1. **Python 3.12 or higher**
    - Download from [python.org](https://www.python.org/downloads/)
@@ -81,7 +42,7 @@ For development or customization:
    - Download from [git-scm.com](https://git-scm.com/downloads)
    - Or download ZIP directly from GitHub (no Git required)
 
-#### Setup from Source
+### Setup
 
 1. **Clone the repository:**
    ```bash
@@ -111,16 +72,6 @@ For development or customization:
 
 ### Running the Server
 
-#### From PyPI Installation
-```bash
-# Start the server
-fastmcp-tutorial
-
-# Test the server
-fastmcp-tutorial-test
-```
-
-#### From Source Installation
 ```bash
 # With uv
 uv run fastmcp-tutorial
@@ -151,22 +102,6 @@ Download and install Claude Desktop from [Anthropic's website](https://claude.ai
 3. Click "Edit Config" to open the configuration file
 
 ### 3. Add Server Configuration
-
-#### For PyPI Installation (Recommended)
-
-Add the following configuration to your `claude_desktop_config.json`:
-
-```json
-{
-  "mcpServers": {
-    "fastmcp-tutorial": {
-      "command": "fastmcp-tutorial"
-    }
-  }
-}
-```
-
-#### For Source Installation
 
 Add the following configuration to your `claude_desktop_config.json`:
 
@@ -223,48 +158,6 @@ You can test if the server works by running it manually:
 cd /path/to/fastmcp-tutorial
 uv run python main.py
 ```
-
-### Finding Your Absolute Path
-
-If you're not sure of the absolute path to your project:
-
-**macOS/Linux:**
-```bash
-cd fastmcp-tutorial
-pwd
-```
-
-**Windows Command Prompt:**
-```cmd
-cd fastmcp-tutorial
-cd
-```
-
-**Windows PowerShell:**
-```powershell
-cd fastmcp-tutorial
-Get-Location
-```
-
-Copy the output and use it as your `cwd` value in the configuration.
-
-### Common Issues
-
-#### Installation Problems
-- **Python not found**: Make sure Python 3.12+ is installed and in your PATH
-- **uv not found**: Restart your terminal after installing uv, or add it to your PATH manually
-- **Permission errors**: On Windows, try running commands as Administrator
-
-#### Claude Desktop Connection Issues
-- **Path not found**: Ensure you're using absolute paths, not relative paths
-- **Server not starting**: Check that all dependencies are installed with `uv run python test_server.py`
-- **JSON syntax errors**: Validate your configuration file with a JSON validator
-- **Permission errors**: Ensure Claude Desktop has permission to access the project directory
-
-#### Getting Help
-- Check the MCP logs in Claude Desktop (Developer → View Logs)
-- Test the server manually: `uv run python test_server.py`
-- Verify your configuration path is correct
 
 ## Development
 
@@ -345,11 +238,6 @@ The extended server now provides:
 - **4 Resources**: Static and dynamic data access
 - **4 Prompts**: Template generators for various use cases
 
-## Package Information
-
-This package is available on PyPI as `fastmcp-tutorial`:
-- **PyPI**: [https://pypi.org/project/fastmcp-tutorial/](https://pypi.org/project/fastmcp-tutorial/)
-- **Source**: [GitHub Repository](https://github.com/yourusername/fastmcp-tutorial)
 
 ### CLI Commands
 
