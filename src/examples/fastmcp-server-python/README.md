@@ -1,6 +1,7 @@
 # FastMCP Tutorial Server
 
 A tutorial MCP (Model Context Protocol) server built with FastMCP 2.0, providing example tools for demonstration purposes.
+This example is taken from the ZazenCodes' youtube tutorial [FastMCP — the best way to build an MCP server with Python](https://www.youtube.com/watch?v=rnljvmHorQw)
 
 ## Features
 
