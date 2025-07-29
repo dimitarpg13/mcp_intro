@@ -50,39 +50,28 @@ For development or customization:
 
 2. **Install dependencies:**
    ```bash
-   # With uv (recommended)
    uv sync
-
-   # Or with pip
-   pip install -e .
    ```
 
 3. **Test the installation:**
    ```bash
-   # With uv
    uv run fastmcp-tutorial-test
-
-   # Or direct
-   fastmcp-tutorial-test
    ```
+   
 
 ## Usage
 
 ### Running the Server
 
 ```bash
-# With uv
 uv run fastmcp-tutorial
-
-# Or direct
-fastmcp-tutorial
 ```
 
 ### Testing the Server
 
 ```bash
 # Test all functionality
-fastmcp-tutorial-test
+uv run fastmcp-tutorial-test
 ```
 
 ## Connecting to Claude Desktop
