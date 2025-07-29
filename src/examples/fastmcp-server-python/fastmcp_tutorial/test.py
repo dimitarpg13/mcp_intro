@@ -3,8 +3,8 @@
 import asyncio
 import json
 from fastmcp import Client
-from .server import mcp
-
+#from .server import mcp
+from fastmcp_tutorial.server import mcp
 
 async def test_server():
     """Test the MCP server functionality including tools, resources, and prompts."""

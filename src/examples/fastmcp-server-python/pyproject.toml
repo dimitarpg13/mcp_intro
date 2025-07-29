@@ -59,11 +59,11 @@ fastmcp-tutorial = "fastmcp_tutorial.cli:main"
 fastmcp-tutorial-test = "fastmcp_tutorial.test:run_tests"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/fastmcp_tutorial"]
+packages = ["fastmcp_tutorial"]
 
 [tool.hatch.build.targets.sdist]
 include = [
-    "src/",
+    "fastmcp_tutorial/",
     "README.md",
     "LICENSE",
 ]
