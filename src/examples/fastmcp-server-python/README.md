@@ -30,14 +30,8 @@ For development or customization:
 ### Prerequisites
 
 1. **Python 3.12 or higher**
-   - Download from [python.org](https://www.python.org/downloads/)
-   - Verify installation: `python --version` or `python3 --version`
 
-2. **uv package manager** (optional but recommended)
-   - Install with: `curl -LsSf https://astral.sh/uv/install.sh | sh` (macOS/Linux)
-   - Or: `powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"` (Windows)
-   - More options: [uv installation guide](https://docs.astral.sh/uv/getting-started/installation/)
-   - Verify installation: `uv --version`
+2. **uv package manager**
 
 
 ### Setup
