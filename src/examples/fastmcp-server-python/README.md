@@ -4,18 +4,18 @@ A tutorial MCP (Model Context Protocol) server built with FastMCP 2.0, providing
 
 ## Features
 
-### 🔧 Tools
+### Tools
 - **Greet Tool**: Greets users by name
 - **Add Numbers Tool**: Performs basic arithmetic addition
 - **Server Info Tool**: Provides information about the server
 
-### 📚 Resources
+### Resources
 - **Server Status**: Real-time server status and configuration (`resource://server-status`)
 - **Greeting Resource**: Static greeting message (`resource://greeting`)
 - **Config Sections**: Parameterized configuration data (`config://{section}`)
 - **User Profiles**: Mock user profile data (`data://user/{user_id}/profile`)
 
-### 💬 Prompts
+### Prompts
 - **Code Review Prompt**: Generates code review prompts for different languages
 - **Documentation Prompt**: Creates documentation writing prompts for functions
 - **Explain Concept Prompt**: Generates explanation prompts for different audiences
