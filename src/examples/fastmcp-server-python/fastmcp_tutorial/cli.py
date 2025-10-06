@@ -3,7 +3,7 @@
 
 import argparse
 import sys
-from .server import mcp
+from server import mcp
 
 
 def main():
