@@ -90,6 +90,18 @@ Alexander Komyagin, Jan 2025](https://medium.com/@adkomyagin/true-agentic-rag-ho
 
 [The Future of AI Agent Communication with ACP: A practical guide to connecting and coordinating multiple AI agents, Mariya Mansurova, 2025](https://towardsdatascience.com/the-future-of-ai-agent-communication-with-acp/?fbclid=IwY2xjawLpkXlleHRuA2FlbQIxMQABHoCnI9gisZXNm4FPteE0ZpHNKnIxwmAKF6pVFjB4YckLAocwssgXWSj6GiDr_aem_atj4xC3L0uOndgWS763SFg)
 
+[The Model Context Protocol (MCP): A Complete Guide, Part 1, Piyush Agnihotri, July 23, 2025, Medium](https://ai.plainenglish.io/the-model-context-protocol-mcp-a-complete-guide-series-db4fc70a5e5a)
+
+[Build Your Own MCP Server and Client: A Complete Guide, Part 2, Piyush Agnihotri, July 13, 2025, Medium](https://ai.plainenglish.io/build-your-own-mcp-server-and-client-a-complete-guide-ee1451068458)
+
+[Building Your Own LangChain MCP Client: From Complex to Simple, Part 3, Piyush Agnihotri, July 15, 2025, Medium](https://medium.com/the-advanced-school-of-ai/building-your-own-langchain-mcp-client-from-complex-to-simple-2-2-89766725b5f3)
+
+[Scaling Beyond Single Servers: Advanced MCP Client Architecture, Part 4, Piyush Agnihotri, July 17, 2025, Medium](https://levelup.gitconnected.com/scaling-beyond-single-servers-advanced-mcp-client-architecture-6904f50fd1cd)
+
+[Building MCP Server & Client: From STDIO to Server-Sent Events (SSE), Part 5, Piyush Agnihotri, July 24, 2025, Medium](https://ai.plainenglish.io/building-mcp-server-client-from-stdio-to-server-sent-events-sse-c47fb99dba3d)
+
+[Building a Universal MCP Client: Seamlessly Connect Local and Remote AI Tools, Part 6, Piyush Agnihotri, Aug 9, 2025, Medium](https://levelup.gitconnected.com/building-a-universal-mcp-client-seamlessly-connect-local-and-remote-ai-tools-0ecd026f1715)
+
 #### Other Media Outlets
 
 ##### FrameLink Figma Server
